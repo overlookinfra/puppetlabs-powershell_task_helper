@@ -1,0 +1,12 @@
+{
+  "files": [
+    "powershell_task_helper/files/BoltPwshHelper/"
+  ],
+  "input_method": "powershell",
+  "parameters": {
+    "name": {
+      "description": "Name of user to run command",
+      "type": "String"
+    }
+  }
+}
